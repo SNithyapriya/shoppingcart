@@ -1,0 +1,4 @@
+payment mode
+visa
+master card
+gpay
