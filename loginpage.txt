@@ -1,5 +1,9 @@
 user login info
 username
 password
+mobileno
+mailid
+address
 invalid username
 forgot pwd
+
