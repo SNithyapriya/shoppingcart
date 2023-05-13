@@ -4,3 +4,4 @@ password
 invalid username
 forgot pwd
 LOGIN SUCCESSFULLY
+WELCOME TO MY PAGE
